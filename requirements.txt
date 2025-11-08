@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn[standard]
+pandas
+catboost
+numpy
+requests
